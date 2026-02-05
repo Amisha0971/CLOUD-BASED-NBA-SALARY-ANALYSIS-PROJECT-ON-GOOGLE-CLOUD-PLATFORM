@@ -61,14 +61,6 @@ These visuals enable comparison of salary distribution across multiple dimension
 - Certain teams allocate higher total salaries than others  
 - Salary levels differ across player positions  
 
----
-
-## 📁 Project Files
-
-- 📊 **NBA Salary Analysis Dashboard (PDF)**  
-- 📄 **NBA Salary Analysis – Project Documentation**
-
-
 
 ---
 
